@@ -1,8 +1,0 @@
-{
-    "groot.112@outlook.com": {
-        "Last check": "Your account has been locked !",
-        "Today's points": 825,
-        "Points": 1902
-    },
-    "Elapsed time": "00:00:28"
-}
