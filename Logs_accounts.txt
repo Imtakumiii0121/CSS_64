@@ -1,8 +1,8 @@
 {
     "groot.112@outlook.com": {
-        "Last check": "2023-05-08",
-        "Today's points": 521,
-        "Points": 2423
+        "Last check": "2023-05-09",
+        "Today's points": 436,
+        "Points": 2859
     },
-    "Elapsed time": "00:00:00"
+    "Elapsed time": "00:12:22"
 }
